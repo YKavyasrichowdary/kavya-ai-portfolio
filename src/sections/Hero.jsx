@@ -321,7 +321,7 @@ shadow-cyan-500/40
 
 >
 
-Explore My Work 🚀
+Explore My Work 
 
 </a>
 

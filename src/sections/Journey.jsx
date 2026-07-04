@@ -15,7 +15,7 @@ description:
 year:"2024",
 title:"Beyond Classrooms 🎓",
 description:
-"Explored hackathons, technical events, and presentations — learning teamwork, problem solving, and building confidence along the way."
+"Explored hackathons, technical events, and presentations. Learning teamwork, problem solving, and building confidence along the way."
 },
 
 
